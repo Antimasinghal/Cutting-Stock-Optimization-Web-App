@@ -1,5 +1,3 @@
-# Industrial-Cutting-Slitting-Optimizer
-Real-world industrial cutting stock optimization web application for automated pattern generation, reel selection, and production planning.
 # 🏭 Industrial Cutting & Slitting Optimizer
 
 🌐 **Live Application:** https://cuttingstock.streamlit.app/
