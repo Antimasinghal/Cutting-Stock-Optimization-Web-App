@@ -1,4 +1,4 @@
-# 🏭 Cutting Stock Optimization Web App
+# 🏭 Industrial-Cutting-Slitting-Optimizer
 
 🌐 **Live Application:** https://cuttingstock.streamlit.app/
 
